@@ -130,7 +130,7 @@ DRIVE: [https://drive.google.com/drive/folders/1kTIkgdzLBcqv38lmqN9JG8e4gWxAdDnU
 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
 
-# VIDEO_TUTORIAL:
+# VIDEO_TUTORIAL_SUBTITLES:
 
 Now I'll walk you through my project demo. So, let's just get into it.
 
