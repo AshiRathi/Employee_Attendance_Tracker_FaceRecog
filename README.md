@@ -126,10 +126,6 @@ DRIVE: [https://drive.google.com/drive/folders/1kTIkgdzLBcqv38lmqN9JG8e4gWxAdDnU
 
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/91864520/170822320-da141c91-aca1-439d-9374-3da71f0219ce.png">
 
-# REFERENCES:
-
-<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
-
 # VIDEO_TUTORIAL CONTENT:
 
 Now I'll walk you through my project demo. So, let's just get into it.
@@ -155,5 +151,7 @@ Next, we have the chatbot button. The user can use this button to interact with 
 
 Lastly, we have the logout button which can be used to exit the application.
 
+# REFERENCES:
 
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
 
