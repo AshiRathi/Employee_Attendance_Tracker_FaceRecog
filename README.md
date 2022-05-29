@@ -129,3 +129,31 @@ DRIVE: [https://drive.google.com/drive/folders/1kTIkgdzLBcqv38lmqN9JG8e4gWxAdDnU
 # REFERENCES:
 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
+
+# VIDEO_TUTORIAL:
+
+Now I'll walk you through my project demo. So, let's just get into it.
+
+This is the login page wherein the user needs to log in using valid credentials that were fed into the system initially while registering and the new users need to register themselves first before logging in. Aditionally, the Forgot password window helps the user to reset their password using the security question's ans that they had filled in during registering and their verified email addresses. All this is linked to mysql database which does the validation so that consistency and correctness is maintaned throughout the project. 
+
+Suppose I am a new user and I want to enter this application. So, i'll initially click on the register button and it will direct me to the register window. Here I have to give all my details so that my account is created and the data gets filled into the registration table created in the mysql database. So, ill write my first name, lastname, contact number, email address, security question that i want to choose, the answer to the security question, password and then i'll confirm the password. I'll then click on agreement and then I'll press the register button and if a user is already registered, he/she can click the login button to move back to the login window. I can also give my credentials and click on forgot password to reset my password.
+
+Now, this is the main window that has various buttons having different functionalities. 
+Firstly, we have an employee details button. Here, we can fill in the details of an employee that will be recorded and saved in the employee table in mysql database. The left frame on this window gives us the functionality of entering details and the save, update, delete and reset buttons for different tasks the user would want to perform. The capture photo sample takes 100 images of the user so that a dataset can be generated which can be used later for facial recognition and attendance management. The right frame here gives the detils of all the employees and is linked to the table employee in the mysql database. 
+
+The second button that we will use is for training the dataset. So, I'll go in and this window will popup. Now, i can click on train the dataset to train my model. Once the training is done, it will display that the dataset training is completed. 
+
+We can also refer to the images using the photographs button, which will take us to the folder that contain the images captured for the model.
+
+After this we have the face detection button, which the user can use for facial detection. The system will detect the user and the attendance.csv file automatically updates the details of the employee along with the time and date of recognition. 
+
+Next, we have the button for managing attendance. Here, the user can import and export csv files (which can be stored for later use) and the content of these files can be seen on the right frame.
+
+The developer button contains the information about the developer. 
+
+Next, we have the chatbot button. The user can use this button to interact with a bot for any queries that he/she might face.
+
+Lastly, we have the logout button which can be used to exit the application.
+
+
+
