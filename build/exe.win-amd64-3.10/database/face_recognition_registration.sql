@@ -40,7 +40,7 @@ CREATE TABLE `registration` (
 
 LOCK TABLES `registration` WRITE;
 /*!40000 ALTER TABLE `registration` DISABLE KEYS */;
-INSERT INTO `registration` VALUES ('bb','bbb','9999999980','bb','BIRTH PLACE','bb','bb');
+INSERT INTO `registration` VALUES ('Ashi','Rathi','9319140626','ashirathi28@gmail.com','BIRTH PLACE','Delhi','1234'),('bb','bbb','9999999980','bb@gmail.com','BIRTH PLACE','bb','bb');
 /*!40000 ALTER TABLE `registration` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-05-27 13:02:25
+-- Dump completed on 2022-05-29 10:23:34

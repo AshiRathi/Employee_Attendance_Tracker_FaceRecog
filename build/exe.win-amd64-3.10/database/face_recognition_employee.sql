@@ -48,7 +48,7 @@ CREATE TABLE `employee` (
 
 LOCK TABLES `employee` WRITE;
 /*!40000 ALTER TABLE `employee` DISABLE KEYS */;
-INSERT INTO `employee` VALUES ('Sales and marketing','Project1','New Delhi','Morning','1','Emp1','A+','Alpha','Emp1@gmail.com','999999999','Delhi','Female','11.11.2001','Lead1','Yes'),('Accounts and Finance','Project2','New Delhi','Evening','2','Emp2','A+','Beta','Emp1@gmail.com','999999998','Delhi','Male','11.11.2002','Lead2','Yes');
+INSERT INTO `employee` VALUES ('Research and development','Project2','New Delhi','Evening','1','Ashi','A+','Alpha','ashirathi28@gmail.com','9319140626','Delhi','Female','28.05.2002','Lead1','Yes'),('Research and development','Project9','Noida','Evening','2','Aditi','O+','Delta','aditi@gmail.com','9898989897','Noida','Female','23.07.1985','Lead4','Yes');
 /*!40000 ALTER TABLE `employee` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -61,4 +61,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-05-27 13:02:25
+-- Dump completed on 2022-05-29 10:23:34
