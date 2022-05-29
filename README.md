@@ -115,7 +115,7 @@ The facial features are registered into the database folder by using the facial 
 
 # LINKS:
 
-GITHUB: https://github.com/AshiRathi/Employee_Attendance_Tracker_FaceRecog.git
+GITHUB: [https://github.com/AshiRathi/Employee_Attendance_Tracker_FaceRecog.git]
 
 PRESENTATION: [https://drive.google.com/file/d/1bv333gbraPcSkHkIgiVXbrX1JKuKNB8C/view?usp=sharing]
 
